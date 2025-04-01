@@ -1,0 +1,23 @@
+{
+  "name": "heisenberg-package",
+  "version": "1.0.0",
+  "description": "First NPM Package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakksham7/heisenberg-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Saksham",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sakksham7/heisenberg-package/issues"
+  },
+  "homepage": "https://github.com/sakksham7/heisenberg-package#readme"
+}
