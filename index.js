@@ -1,3 +1,3 @@
 export function heisenberg(num) {
-  console.log("Heisenberg Uncertainity Principle Updated 1.0.4");
+  console.log("Heisenberg Uncertainity Principle Updated 1.0.5");
 }
